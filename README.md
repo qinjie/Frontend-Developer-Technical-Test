@@ -45,6 +45,8 @@ Docs:  https://u7yhkrlx15.execute-api.ap-southeast-1.amazonaws.com/docs
 
 <img src='./ui-design/page1.png' width='80%'/>
 
+
+
 ### Screen 2 ([page2.png](./ui-design/page2.png))
 
 * User retrieve OTP from his email and use it to login. Backend API will return a JWT token.
@@ -70,6 +72,8 @@ Docs:  https://u7yhkrlx15.execute-api.ap-southeast-1.amazonaws.com/docs
 
 <img src='./ui-design/page2.png' width='80%'/>
 
+
+
 ### Screen 3 ([page3.png](./ui-design/page3.png))
 
 * It displays list of app modules. (You may use any picture for app badges.)
@@ -85,6 +89,8 @@ Docs:  https://u7yhkrlx15.execute-api.ap-southeast-1.amazonaws.com/docs
 * Related API: [/v1/profiles/fetch_by_json](https://u7yhkrlx15.execute-api.ap-southeast-1.amazonaws.com/docs#/Profiles/fetch_by_json_v1_profiles_fetch_by_json_post)
 
 <img src='./ui-design/page4.png' width='80%'/>
+
+
 
 ### Screen 5 ([page5-1.png](./ui-design/page5-1.png), [page5-2.png](./ui-design/page5-2.png))
 
@@ -106,6 +112,10 @@ For [Staff Profiles API](https://u7yhkrlx15.execute-api.ap-southeast-1.amazonaws
 
 
 
+
+
+
+
 ## Section 2:  CSS Modification
 
 The objective of this session is to test your skills in CSS and HTML. 
@@ -118,6 +128,8 @@ The `html_css` folder contains a HTML file `message.html`. Make following 2 chan
 
 
 <img src="./images/Screenshot_2.png" width="70%"/>
+
+
 
 
 
